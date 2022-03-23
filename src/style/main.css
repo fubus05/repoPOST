@@ -1,0 +1,12 @@
+a, li{
+    list-style-type: none;
+    display: grid;
+    text-decoration: none;
+}
+.container > h1{
+    text-align: center;
+}
+.secondContainer{
+    display: inline-flex;
+    margin: 50px;
+}

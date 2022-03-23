@@ -1,0 +1,12 @@
+.userComments,
+.comment{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.userBorder{
+    border: 2px solid;
+}
+.userBorder > p{
+    text-align: center;
+}
